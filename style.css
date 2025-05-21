@@ -473,7 +473,7 @@ td {
 	background-size: cover;
 }
 #three {
-	height: 1000px;
+	height: 800px;
 	width: 100%;
 	/* border: 2px solid black; */
 	background-color: rgb(9, 12, 15);
@@ -484,7 +484,7 @@ td {
 }
 
 .f-div {
-	height: 500px;
+	height: 400px;
 	width: 100%;
 	background-color: black;
 	margin: 0px auto;
@@ -500,5 +500,12 @@ td h3{
 }
 td p{
     font-size: 6px;
+}
+#four {
+	width: 100%;
+	height: 700px;
+	/* border: 2px solid red; */
+	background-image: url("beans.avif");
+	opacity: 0.9;
 }
 }
