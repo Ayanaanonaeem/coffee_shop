@@ -430,10 +430,10 @@ td {
 }
 .left .para-2 {
 	color: rgb(131, 134, 135);
-	margin-bottom: 30px;
+	margin-bottom: 40px;
 	padding-right: 30px;
 	text-align: justify;
-    font-size: 6px;
+    font-size: 10px;
 }
 .small-cont {
 	width: 95%;
@@ -484,7 +484,7 @@ td {
 }
 
 .f-div {
-	height: 600px;
+	height: 500px;
 	width: 100%;
 	background-color: black;
 	margin: 0px auto;
