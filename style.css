@@ -90,7 +90,7 @@ li a:hover {
 	width: 55%;
 	height: 600px;
 	/* border:2px solid rgb(0, 255, 21); */
-	background-image: url("/Assets/IMG_8592.jpg");
+	background-image: url("/IMG_8592.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -139,7 +139,7 @@ li a:hover {
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
-	background-image: url("/Assets/waiter.webp");
+	background-image: url("/waiter.webp");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -174,7 +174,7 @@ li a:hover {
 	width: 340px;
 	/* border: 2px solid green; */
 	border-radius: 10px;
-	background-image: url("/Assets/waiter.jpg");
+	background-image: url("/waiter.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -212,7 +212,7 @@ li a:hover {
 	height: 240px;
 	width: 340px;
 	/* border: 2px solid green; */
-	background-image: url("/Assets/coffee.avif");
+	background-image: url("/coffee.avif");
 	border-radius: 10px;
 
 	background-position: center;
@@ -250,7 +250,7 @@ li a:hover {
 .e {
 	height: 240px;
 	width: 340px;
-	background-image: url("/Assets/coffe.avif");
+	background-image: url("/coffe.avif");
 	background-position: center;
 	background-repeat: no-repeat;
 	border-radius: 10px;
@@ -290,7 +290,7 @@ li a:hover {
 	width: 100%;
 	height: 900px;
 	/* border: 2px solid red; */
-	background-image: url("/Assets/beans.avif");
+	background-image: url("/beans.avif");
 	opacity: 0.9;
 }
 .f-para {
@@ -411,7 +411,7 @@ td {
 	width: 100%;
 	height: 300px;
 	/* border:2px solid rgb(0, 255, 21); */
-	background-image: url("/Assets/IMG_8592.jpg");
+	background-image: url("/IMG_8592.jpg");
 	background-size: cover;
 	background-position: center;
 }
@@ -467,7 +467,7 @@ td {
 	width: 50px;
 	height: 50px;
 	border-radius: 50%;
-	background-image: url("/Assets/waiter.webp");
+	background-image: url("/waiter.webp");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
